@@ -8,6 +8,7 @@ html, body {
   color: #000000; }
 
 #imgLinks {
+  padding: 0 0 0 75px;
   width: 800px; }
   #imgLinks img {
     width: 100%;
