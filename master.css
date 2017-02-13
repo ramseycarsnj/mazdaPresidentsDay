@@ -16,4 +16,5 @@ html, body {
     transition: opacity .4s;
     -webkit-transition: opacity .4s; }
   #imgLinks img:hover {
-    opacity: 0.8; }
+    opacity: 0.8;
+    cursor: pointer; }
