@@ -79,6 +79,25 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"\/mobile.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/mobile.html",
+		"oF": 0
+		},
+	"\/mobile.sass": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 2,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/mobile.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
 	"\/mx5.png": {
 		"ft": 32768,
 		"iS": 161795,
@@ -94,6 +113,12 @@
 		"oAP": "\/presidents_day_sales_event_logo_mazda.png",
 		"oF": 0,
 		"opt": 1
+		},
+	"\/Users:joethemovie:GitHub:ma.textClipping": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/Users:joethemovie:GitHub:ma.textClipping",
+		"oF": 0
 		}
 	},
 "hooks": [

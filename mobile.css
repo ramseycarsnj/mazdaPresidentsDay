@@ -1,0 +1,17 @@
+html, body {
+  padding: 0;
+  margin: 0;
+  border: 0;
+  line-height: 1;
+  font-family: Helvetica, sans-serif;
+  background-color: #E3E3E3;
+  color: #000000; }
+  html #imgLinks, body #imgLinks {
+    padding: 0 0 0 0px;
+    width: 300px; }
+    html #imgLinks img, body #imgLinks img {
+      width: 100%;
+      padding: 2px 0; }
+    html #imgLinks img:hover, body #imgLinks img:hover {
+      opacity: 0.8;
+      cursor: pointer; }
